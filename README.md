@@ -17,7 +17,7 @@ Proyek ini dibangun menggunakan:
 ## 🔗 Tautan Website
 
 Live Website :  
-https://dailyproject3-bice.vercel.app/
+rk-4-zi7n.vercel.app
 
 ---
 
