@@ -1,6 +1,6 @@
-## Nama : Nifail Eka Nafie
-## NIM  : 202310370311344
-## Kelas: Rekayasa Kebutuhan A
+## Nama : Naufal Ramzi
+## NIM  : 202310370311026
+## Kelas: Rekayasa Kebutuhan D
 
 # Sistem Pelacakan dan Pemetaan Alumni
 
